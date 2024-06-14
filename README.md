@@ -79,7 +79,7 @@ Follow the prompts to complete the deployment process.
 ## Project Submission
 
 - **Website Link**: https://the-weather-forecasting.netlify.app
-- **GitHub Repository**: https://github.com/rohittbhoi/Practice1.git
+- **GitHub Repository**: https://github.com/rohittbhoi/weather-forecast-india.git
 
 ### Submission Date
 
